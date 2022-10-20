@@ -5,4 +5,5 @@
 >php artisan serve
 
 ## Levantar Frontend
->npm run serve
+
+>npm run dev
